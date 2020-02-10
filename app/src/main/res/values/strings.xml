@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="connection_problem">Connection Problem !!</string>
+    <string name="movie_title">movie</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info</string>
+    <string name="releasedate">ReleaseDate</string>
+    <string name="default_date">2019</string>
+    <string name="rating">Rating:</string>
+    <string name="default_rate">8</string>
+    <string name="runtime">Runtime:</string>
+    <string name="default_runtime">2.3 hr</string>
+    <string name="budget">Budget:</string>
+    <string name="default_budget">130,000</string>
+    <string name="revenue">Revenue:</string>
+    <string name="default_revenue">2.3 hr</string>
+    <string name="overview">OverView:</string>
+    <string name="default_overview">overview.............</string>
+</resources>
